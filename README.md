@@ -3,6 +3,8 @@
 1. 總共有多少個不重複的英文字
 2. 每一個英文字出現次數為何
 
+其中「HW2_hash_practice.ipynb」以Python dictionary 進行程式撰寫。
+
 # 執行結果
 >總共有 10 個不重複的英文字: <br>
 詞彙 Fries 出現次數: 76 <br>
